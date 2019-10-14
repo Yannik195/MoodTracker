@@ -1,0 +1,6 @@
+hypersecretfile.txt
+secrets.txt
+
+#Comment
+
+# *.txt <-- All files witch .txt extension will be ignored
